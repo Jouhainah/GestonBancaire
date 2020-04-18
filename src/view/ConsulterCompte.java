@@ -21,7 +21,7 @@ public class ConsulterCompte implements ActionListener {
     JMenuBar mb = new JMenuBar();
 
     public ConsulterCompte() {
-        button1.disable();
+
     }
 
     public static void main(String[] args) {
